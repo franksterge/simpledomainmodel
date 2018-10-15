@@ -164,8 +164,3 @@ open class Family {
         return income
     }
 }
-
-
-
-
-
